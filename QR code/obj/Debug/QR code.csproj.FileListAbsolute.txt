@@ -1,0 +1,11 @@
+D:\VLAD\C#\QR code\QR code\bin\Debug\QR code.exe.config
+D:\VLAD\C#\QR code\QR code\bin\Debug\QR code.exe
+D:\VLAD\C#\QR code\QR code\bin\Debug\QR code.pdb
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.csprojAssemblyReference.cache
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR_code.Form1.resources
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR_code.Properties.Resources.resources
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.csproj.GenerateResource.cache
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.csproj.CoreCompileInputs.cache
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.csproj.CopyComplete
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.exe
+D:\VLAD\C#\QR code\QR code\obj\Debug\QR code.pdb
